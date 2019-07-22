@@ -35,4 +35,4 @@ These compressors feed the 4 production lines.
 
 ## There are over 5,700 combinations in which the compressors may be connected to all 4 production lines.
 
-![png](factory_diagram_1.png)
+![png](factory_diagram_2.png)
