@@ -13,7 +13,7 @@
 
 ## PROBLEM STATEMENT 2
 
-## To supply each production lane with the amount of refrigeration and air compressors needed to produce, the factory has:
+## To supply each production line with the amount of refrigeration and air compressors needed to produce, the factory has:
 * 12 compressorss: 
     
     6 air compressors:
