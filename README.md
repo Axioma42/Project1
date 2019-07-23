@@ -5,16 +5,16 @@
 
 ## PROBLEM STATEMENT 1
 
-* The beverages factory “Juguitos” has a production Schedule that is active 24/7, 365 days a year.
+* The beverages factory “Juguitos” has a production schedule that is active 24/7, 365 days a year.
 
-* For this project we will analise data from the first 6 months of the year.
+* For this project we will analyse data from the first 6 months of the year.
 
-* The factory has 4 production lines, we will attempt to explain how does the volumen produced impacts the energy intake of each line.
+* The factory has 4 production lines, we will attempt to explain how does the volume produce impacts the energy intake of each line.
 
 ## PROBLEM STATEMENT 2
 
 ## To supply each production line with the amount of refrigeration and air compressors needed to produce, the factory has:
-* 12 compressorss: 
+* 12 compressors: 
     
     6 air compressors:
       2 big AC (over 200 HP)
@@ -26,8 +26,7 @@
 
 These compressors feed the 4 production lines.
 
-## The purpose is to determine which combination of compressors presents the lowest energy intake.
-
+## The purpose is to develop a dataframe that guides the plan personnel to determine the compressor combination to use. 
 
 ## Factory diagram
 
